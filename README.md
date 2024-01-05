@@ -47,4 +47,6 @@ Libraries: (e.g., scikit-learn,Matplotlib, pandas, seaborn, and NumPy,Imblearn)
 
 
 ![Screenshot (133)](https://github.com/sahooraghunath/Customer-churn-predictionn/assets/119792506/0841db70-190d-449c-a15e-3aa21fd0687e)
+
+![Screenshot (132)](https://github.com/sahooraghunath/Customer-churn-predictionn/assets/119792506/f7de5745-2a70-41ab-95a4-a8736a6ac5b2)
           
