@@ -17,13 +17,13 @@
 
 *_The dataset encompasses the following details_*:
 
-*Churn Column*: Indicates customers who terminated services within the last month.
+*Churn Column*-- Indicates customers who terminated services within the last month.
 
-*Services Subscribed*: Includes phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
+*Services Subscribed*-- Includes phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
 
-*Customer Account Details*: Encompasses tenure as a customer, contract type, payment method, preference for paperless billing, monthly charges, and total charges incurred.
+*Customer Account Details*-- Encompasses tenure as a customer, contract type, payment method, preference for paperless billing, monthly charges, and total charges incurred.
 
-*Demographic Information*: Provides insights into customers' gender, age range, as well as their marital status, indicating if they have partners and dependents.
+*Demographic Information*-- Provides insights into customers' gender, age range, as well as their marital status, indicating if they have partners and dependents.
 
 **Requirements**:
 
@@ -32,7 +32,7 @@ Libraries: (e.g., scikit-learn,Matplotlib, pandas, seaborn, and NumPy,Imblearn)
 
 **Challenges Overcome**:
 
-         Handled imbalanced dataset by implementing various resampling techniques (e.g., oversampling minority class, undersampling majority class, SMOTE) to mitigate class imbalance.
+   Handled imbalanced dataset by implementing various resampling techniques (e.g., oversampling minority class, undersampling majority class, SMOTE) to mitigate class imbalance.
  
  **Approach**:
         Conducted comprehensive analysis and feature engineering to identify key predictors of churn.
