@@ -45,5 +45,6 @@ Libraries: (e.g., scikit-learn,Matplotlib, pandas, seaborn, and NumPy,Imblearn)
 
    Achieved an F1 score of 88% for predicting customers likely to churn ('Churn == Yes') and 90% for those not likely to churn ('Churn == No'), demonstrating robust performance across both classes.
 
-![Classification report](("C:\Users\raghu\OneDrive\Pictures\Screenshots\Screenshot (132).png"))
+
+![Screenshot (133)](https://github.com/sahooraghunath/Customer-churn-predictionn/assets/119792506/0841db70-190d-449c-a15e-3aa21fd0687e)
           
