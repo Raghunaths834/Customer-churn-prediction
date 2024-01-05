@@ -35,12 +35,14 @@ Libraries: (e.g., scikit-learn,Matplotlib, pandas, seaborn, and NumPy,Imblearn)
    Handled imbalanced dataset by implementing various resampling techniques (e.g., oversampling minority class, undersampling majority class, SMOTE) to mitigate class imbalance.
  
  **Approach**:
-        Conducted comprehensive analysis and feature engineering to identify key predictors of churn.
-        Employed various classification models (e.g., Random Forest, Logistic Regression, Gradient Boosting) to train and evaluate the predictive performance.
-        Utilized techniques such as cross-validation and hyperparameter tuning to optimize model performance.
+ 
+   Conducted comprehensive analysis and feature engineering to identify key predictors of churn.
+   Employed various classification models (e.g., Random Forest, Logistic Regression, Gradient Boosting) to train and evaluate the predictive performance.
+   Utilized techniques such as cross-validation and hyperparameter tuning to optimize model performance.
 
 **Result**:
-        Achieved an F1 score of 88% for predicting customers likely to churn ('Churn == Yes') and 90% for those not likely to churn ('Churn == No'), demonstrating robust performance across both classes.
+
+   Achieved an F1 score of 88% for predicting customers likely to churn ('Churn == Yes') and 90% for those not likely to churn ('Churn == No'), demonstrating robust performance across both classes.
 
 ![Classification report](("C:\Users\raghu\OneDrive\Pictures\Screenshots\Screenshot (132).png"))
           
